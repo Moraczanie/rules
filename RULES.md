@@ -38,11 +38,11 @@
 
 § - Akceptujesz Community Guidelines Discorda [https://dis.gd/guidelines]
 
-§ - Oświadczasz że ukończyłeś przynajmniej 3 klasę polskiej szkoły podstawowej*
+§ - Oświadczasz że ukończyłeś przynajmniej 3 klasę [*1]() polskiej [*2]() szkoły podstawowej
 
 § - Oświadczasz że nie jesteś pracownikiem placówki oświatowej
 
-§ - Oświadczasz że nie jesteś opiekunem prawnym lub rodzicem*
+§ - Oświadczasz że nie jesteś opiekunem prawnym lub rodzicem [*3]()
 
 § - Oświadczasz że jesteś jedynym użytkownikiem konta którym dołączasz na serwer
 
@@ -51,3 +51,9 @@
 § - Oświadczasz że jesteś świadom, że ta grupa, społeczność, serwer, jego fragment lub podmiot od niego zależny, nie ważne od przesłanek, podobieństw, przekazów lub wyobrażeń nie jest związany, zależny od lub pod kontrolą żadnej fimry, spółki, placówki artystycznej, oświatowej, medialnej, rządowej, kancelarii, agencji lub towarzystwa
 
 § - Oświadczasz że jesteś świadom, że posiadanie roli tytułowanej Moraczanin, Junior, MoraczaninLite lub Rodzic w dowolnym momencie kiedykolwiek, jest bezpośrednio definiowane jako akceptacja regulaminu i jego zmian
+
+[*1]() - zależne od aktualnych ustaleń dot. grup wiekowych.
+</br>
+[*2]() - o wieku w którym w polskim system oświatowym kończy się klasę 3.
+</br>
+[*3]() - zależne od aktualnych ustaleń dot. grup wiekowych.
