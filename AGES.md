@@ -15,6 +15,8 @@ Użytkownicy w klasach 1lo+ mogą po zgłoszeniu chęci zostać dopisani do doda
 </br>
 Użytkownicy którzy w trakcie wypełniania zgłoszenia są w klasie 8 mogą również, po uprzednim dodatkowym zatwierdzeniu, dołączeni do Seniorów.
 
+By zostać przyjętymi, użytkownicy musieli być na szkolnym serwerze Discorda w odpowiedniej roli klasowej, lub wysłać zdjęcie swojej legitymacji szkolnej z widocznym tylko Imieniem i Nazwiskiem z którym się identyfikują oraz datą urodzenia i jej odwrotem z widoczną pieczątką bycia uczniem szkoły.
+
 ## Moraczanin Lite
 
 Użytkownicy którzy nie uczą się aktualnie w szkole Moracz a są członkiem serwera mogą zostać sklasyfikowani jako Moraczanin Lite. Każdy użytkownik Moraczanin Lite musi zostać zatwierdzony przez Administratora Serwera na wejściu, po uprzednim podaniu Imienia i Nazwiska ucznia ze szkoły Moracz który ręczy za ich zachowanie, i zostaniu potwierdzonym przez rzeczonego ucznia.
