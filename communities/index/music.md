@@ -1,7 +1,8 @@
 # Społeczność Music
 
-## Właściciel: MrCamelIV#5183 [`695980612254957589`]
+## Właściciel: @serwer
 
+### Co-Właściciel: DarthAleksander#4070 [`605653826602795018`]
 ---
 
 ### Regulamin:
