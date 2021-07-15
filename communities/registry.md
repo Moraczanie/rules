@@ -4,11 +4,13 @@
  - @CO-Art🎨
  - @Artysta🎨
  - publiczna
+ - @serwer
 
 **Anime**   
  - @CO-Anime🐱‍👤   
  - @Weeb🐱‍👤   
  - publiczna
+ - @serwer
 
 **English**   
  - @CO-English 🇬🇧   
@@ -26,11 +28,13 @@
  - @CO-McGamer🎮   
  - @McGamer🎮   
  - publiczna
+ - @serwer
 
 **Gracze Szkolnej Terrarii**   
  - @CO-TerrariaGamer🎮   
  - @TerrariaGamer🎮   
  - publiczna
+ - @serwer
 
 **Pseudodorośli**   
  - @CO-Pseudo-dorośli👥   
@@ -42,10 +46,10 @@
  - @CO-Programming💾   
  - @Programmer💾   
  - publiczna   
- - @MrCamelV#5183 [`695980612254957589`], @DarthAleksander#4070 [`605653826602795018`]
+ - @serwer, @DarthAleksander#4070 [`605653826602795018`]
 
 **Muzyka**   
  - @CO-Music🎵   
  - @Muzyk🎵   
  - publiczna   
- - @MrCamelV#5183 [`695980612254957589`]
+ - @serwer, @DarthAleksander#4070 [`605653826602795018`]
