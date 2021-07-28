@@ -20,3 +20,5 @@ Możliwe kary: moderowanie niedostosowanych wiadomości; usunięcie ze społeczn
 4 - Można prosić właściciela społeczności, aby zmoderował wskazaną treść.
 </br>
 5 - Do społeczności można dołączyć dopiero w szóstej klasie.
+</br>
+6 - 3 ostrzeżenia są równoważne z karą "ban" ze społeczności.
