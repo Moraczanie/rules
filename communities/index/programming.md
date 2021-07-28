@@ -10,7 +10,7 @@ Owe zasady, są dodatkiem do głównych z servera Moraczan, przestrzegamy je wsz
 </br>
 Możliwe kary: moderowanie niedostosowanych wiadomości; usunięcie ze społeczności.
 
-1 - Cel udostępnianych treści ma dotyczyć programowania, bądź być typowo intelektualny, np. fizyka. (Możliwy BAN)
+1 - Cel udostępnianych treści ma dotyczyć programowania, bądź być typowo intelektualny, np. fizyka. (BAN)
 </br>
 2 - Rozumiemy iż treści na kanale mogą podlegać prawom autorskim.
 </br>
@@ -23,3 +23,5 @@ Możliwe kary: moderowanie niedostosowanych wiadomości; usunięcie ze społeczn
 6 - Właściciel społeczności słucha uwag, jednak po rozważeniu zawsze decyduje.
 </br>
 7 - Do społeczności można dołączyć dopiero w szóstej klasie.
+</br>
+8 - 3 ostrzeżenia są równoważne z karą "ban" ze społeczności.
