@@ -1,28 +1,10 @@
 **Nazwa społeczności** | @/Rola właściciela | @/Rola członka | tagi | właściciel [id]
 
-**Art**:
- - @CO-Art🎨
- - @Artysta🎨
- - publiczna
- - @serwer
-
 **Anime**   
  - @CO-Anime🐱‍👤   
  - @Weeb🐱‍👤   
  - publiczna
  - @serwer
-
-**English**   
- - @CO-English 🇬🇧   
- - @Anglik 🇬🇧   
- - publiczna   
- - @Wiktoria Tola#4543 [`786281597082533959`]
-
-**Floppa**   
- - @Co-Floppa🐱   
- - @Flopper🐱   
- - publiczna   
- - @ॐ𝒮𝓏𝒸𝓏𝓮𝓀𝓊𝓈ॐ#5939 [`688374704347545660`]
 
 **Gracze Szkolnego Minecrafta**   
  - @CO-McGamer🎮   
